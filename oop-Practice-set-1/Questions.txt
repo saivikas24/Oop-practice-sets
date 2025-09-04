@@ -1,0 +1,21 @@
+School of Computing and Data Science Sai University 
+Practice Set 1: C++ Basics 
+Q1. Write a program to read your name and age, and print them in the format: Hello <name>, you are <age> years old. 
+Q2. Read an integer and check whether it is even or odd. 
+Q3. Take two integers as input and print the larger one using if-else. Q4. Read three integers and print the largest number. 
+Q5. Take an integer and check whether it is positive, negative, or zero. 
+Q6. Write a program to print the multiplication table of a given number using a for loop. 
+Q7. Print all numbers from 1 to 100 using a for loop. 
+Q8. Find the sum of the first n natural numbers. 
+Q9. Find the factorial of a given number n. 
+Q10. Check whether a given year is a leap year or not. 
+Q11. Given marks of a student (0–100), print the grade: A (≥90), B (80–89), C (70–79), D (60–69), F (below 60). 
+Q12. Find the roots of a quadratic equation ax2 + bx + c = 0. (Handle real and imaginary roots using if-else.) 
+Q13. Check whether a number is prime or not. 
+Q14. Print all prime numbers between 1 and 100. 
+Q15. Reverse the digits of a given number. (Example: input 1234 → output 4321) 
+Q16. Find the sum of digits of a given number. (Example: input 1234 → output 10) 
+Q17. Generate the Fibonacci series up to n terms. 
+Q18. Check whether a given number is a palindrome or not. (Example: 121 is palindrome, 123 is not.) 
+Q19. Write a program to calculate the simple interest. Formula: SI =P ×R×T 100 
+Q20. Write a program to find the greatest common divisor (GCD) of two num bers using a loop. 
