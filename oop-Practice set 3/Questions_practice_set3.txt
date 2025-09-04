@@ -1,0 +1,34 @@
+School of Computing and Data Science
+Sai University
+Practice Set 3: C++ Basics
+1. Create a class Student with private data members name and age. Write
+
+setter and getter methods to assign and retrieve their values. Demon-
+strate their use in main().
+
+2. Define a class BankAccount with a private member balance. Provide
+methods setBalance() and getBalance() to update and view the
+balance. Ensure that negative values cannot be assigned.
+3. Write a program that defines a class Book with private members title
+and price. Implement setters and getters for both members, and print
+the details of the book object.
+4. Create a class Rectangle with private data members length and width.
+Write setter and getter methods and calculate the area using them.
+5. Define a class Employee with private members id and salary. Use
+setters and getters to initialize and display their values. In main(),
+create multiple employees and print their details.
+6. Write a class Car with private members brand and model. Provide
+setter and getter methods. In main(), create an array of cars and use
+the methods to assign and print their values.
+7. Implement a class Circle with a private data member radius. Provide
+setters and getters, and an additional method getArea() that uses the
+getter to calculate the area.
+8. Create a class Account with private members accountNumber and
+balance. Provide setter and getter methods. In main(), ensure that
+account details can only be accessed through these methods.
+9. Write a class Temperature with a private member celsius. Provide
+setCelsius() and getFahrenheit() methods to convert the stored
+temperature to Fahrenheit.
+10. Define a class University with private members name and ranking.
+Provide setters and getters. Demonstrate in main() that private data
+members cannot be accessed directly, but only via the methods.
