@@ -1,0 +1,40 @@
+Q1. Create a class that behaves like a simple list in Python. It should support adding,
+removing, displaying, and getting the size of the list. Explain why you used con-
+structors and any operator overloading (if used).
+
+Q2. Design a class that mimics a dictionary or map functionality — where you
+can store key-value pairs, search for a key, and display all pairs. Explain why
+encapsulation is important in this implementation.
+
+Q3. Write a program to demonstrate single inheritance. Create a base class Shape
+and a derived class Rectangle. Include methods to calculate area and perimeter.
+Explain why inheritance is preferred over writing separate classes for each shape.
+
+Q4. Implement a program demonstrating multilevel inheritance. For example: Person
+→ Employee → Manager. Show how data and functions are passed through the
+inheritance chain. Explain why access specifiers matter here.
+
+Q5. Create a program that demonstrates multiple inheritance. Example: A class
+SportsPerson inherits from both Person and Athlete. Explain what ambiguity
+arises and how you resolved it using scope resolution or virtual base classes.
+
+Q6. Write a program where two different class objects share data using a friend
+function. For example, a class Student and a class Sports share marks and
+scores. Explain why the friend function was needed instead of a member function.
+
+Q7. Implement all sorting algorithm (Bubble Sort, Insertion Sort, or Selection Sort)
+using OOP concepts. Use a class and methods for sorting, displaying, and
+inputting data. Explain why object-oriented design improves modularity here.
+
+Q8. Create a program to demonstrate function overloading and overriding. Show
+how compile-time and run-time polymorphism differ. Explain when each is useful
+in real-world applications.
+
+
+Q9. Write a class BankAccount with features like deposit(), withdraw(), and display().
+Use constructor initialization and show how encapsulation prevents invalid access.
+Explain why data hiding is essential in banking systems.
+
+Q10. Design a simple example that demonstrates abstract classes and pure virtual
+functions. Create a base class Shape with a pure virtual function area() and
+derive Circle and Square classes. Explain
